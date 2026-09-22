@@ -1,5 +1,4 @@
 # Emmanuel Meireles Silva
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+%7C+Mobile;React+Native+%7C+TypeScript+%7C+Next.js;Construindo+solu%C3%A7%C3%B5es+com+valor+e+qualidade" alt="Typing SVG" />
 </div>
