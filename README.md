@@ -64,9 +64,9 @@ Aplicativo multiplataforma voltado ao acompanhamento e controle de vacinas, com 
 
 ## Formação
 
-- **Técnico em Desenvolvimento de Sistemas** — ETE, em parceria com Porto Digital
-- **Tecnólogo em Sistemas para Internet** — UNICAP, 2023–2025
-- **Bacharelado em Arquitetura e Urbanismo** — UniFBV Wyden, 2020–2026 (em andamento)
+- **Tecnólogo em Sistemas para Internet** - UNICAP, 2023–2025
+- **Bacharelado em Arquitetura e Urbanismo** - UniFBV Wyden, 2020–2026 (em andamento)
+- **Técnico em Desenvolvimento de Sistemas** - ETE(em andamento)
 
 ## Diferenciais
 
@@ -91,5 +91,5 @@ Estou aberto a oportunidades profissionais, projetos, parcerias e conexões.
 </p>
 
 <p align="center">
-  <i>Desenvolvendo soluções com propósito, clareza e impacto real.</i>
+  <i>A verdadeira oportunidade é aquela que pode ser vivida</i>
 </p>
