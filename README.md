@@ -5,95 +5,104 @@
 </div>
 
 <p align="center">
-  <a href="mailto:emmanuelmeireles@gmail.com"><img src="https://img.shields.io/badge/Gmail-emmanuelmeireles%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/meirelesemmanuel"><img src="https://img.shields.io/badge/LinkedIn-meirelesemmanuel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/emmanuelmeireles"><img src="https://img.shields.io/badge/GitHub-emmanuelmeireles-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://tinyurl.com/Emmanuel-Meireles-Silva"><img src="https://img.shields.io/badge/Curr%C3%ADculo%20Portf%C3%B3lio-Acessar-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Currículo Portfólio" /></a>
+  <a href="mailto:emmanuelmeireles@gmail.com"><img src="https://img.shields.io/badge/Gmail-emmanuelmeireles%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/meirelesemmanuel"><img src="https://img.shields.io/badge/LinkedIn-meirelesemmanuel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/emmanuelmeireles"><img src="https://img.shields.io/badge/GitHub-emmanuelmeireles-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://tinyurl.com/Emmanuel-Meireles-Silva"><img src="https://img.shields.io/badge/Curr%C3%ADculo%20Portf%C3%B3lio-Acessar-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Recife%2C%20PE-B0D4FF?style=flat-square" alt="Location Recife" />
-  <img src="https://img.shields.io/badge/Availability-Open%20to%20work-34D399?style=flat-square" alt="Disponível para oportunidades" />
+  <img src="https://img.shields.io/badge/Recife%2C%20PE-B0D4FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-34D399?style=flat-square" />
 </p>
+
+---
 
 ## Sobre mim
 
-Desenvolvedor Full Stack com foco em software de alta qualidade, experiência do usuário e soluções que unem frontend, mobile, backend e arquitetura. Tenho experiência prática em desenvolvimento de interfaces, integração de APIs, autenticação, persistência de dados, testes e entrega em ambientes ágeis.
+Desenvolvedor Full Stack com foco em qualidade, experiência do usuário e soluções completas (frontend, mobile, backend e arquitetura). Experiência prática em interfaces, APIs, autenticação, persistência de dados, testes e entrega ágil.
 
-### Stack principal
+### Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts,js,nodejs,java,spring,postgres,mysql,firebase,git,github" alt="Stack principal" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts,js,nodejs,java,spring,postgres,mysql,firebase,git,github" />
 </p>
+
+---
 
 ## Experiência
 
-### Desenvolvedor de Software — Porto Digital & Claro
-**Março de 2025 – Junho de 2025**
+### Porto Digital & Claro — Desenvolvedor de Software  
+**Mar 2025 – Jun 2025**
+- Interfaces escaláveis com React/TypeScript  
+- Integração com APIs REST e PostgreSQL  
+- Clean Code, arquitetura modular e performance  
+- Trabalho em squads ágeis com revisão de código  
 
-- Desenvolvimento de interfaces escaláveis com React e TypeScript;
-- Integração com APIs RESTful e bancos PostgreSQL;
-- Aplicação de Clean Code, arquitetura modular e melhorias de performance;
-- Colaboração em squads ágeis, revisão de código e documentação técnica.
+### Porto Digital & NTT Data — Desenvolvedor de Software  
+**Jan 2024 – Jun 2024**
+- Interfaces dinâmicas e integração com APIs REST  
+- Apoio em decisões técnicas e arquitetura  
+- Integração com MySQL e foco em qualidade  
 
-### Desenvolvedor de Software — Porto Digital & NTT Data
-**Janeiro de 2024 – Junho de 2024**
+### Porto Digital & Accenture — Desenvolvedor de Software  
+**Jan 2024 – Jun 2024**
+- Componentes reutilizáveis e padrões de design  
+- Testes funcionais e CI/CD  
+- Colaboração com design e produto  
 
-- Desenvolvimento de interfaces dinâmicas e integração com APIs RESTful;
-- Apoio em decisões técnicas e arquitetura de soluções;
-- Integração com MySQL e foco em manutenibilidade e qualidade de entrega.
-
-### Desenvolvedor de Software — Porto Digital & Accenture
-**Janeiro de 2024 – Junho de 2024**
-
-- Criação de componentes reutilizáveis e aplicação de padrões de design;
-- Resolução de bugs, execução de testes funcionais e participação em CI/CD;
-- Colaboração com equipes de design e produto em contextos organizacionais.
+---
 
 ## Projeto em destaque
 
-### Minha Dose — Aplicativo Mobile de Saúde
+### Minha Dose — Aplicativo Mobile de Saúde  
+App multiplataforma para controle de vacinas, com foco em usabilidade e acessibilidade.  
+**Resultado:** score **86,14** no SUS (**Excelente**).
 
-Aplicativo multiplataforma voltado ao acompanhamento e controle de vacinas, com foco em usabilidade, acessibilidade e organização de dados. O projeto reúne desenvolvimento mobile, integração com APIs, autenticação e experiência de usuário com alto cuidado na navegação e no fluxo de uso.
-
-**Resultado:** score de **86,14** no SUS, considerado **Excelente**.
+---
 
 ## Projetos selecionados
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="18" alt="Next.js" /> Portfólio Next.js](https://github.com/emmanuelmeireles/portifolio_NextJS) | Portfólio web profissional com apresentação pessoal | Next.js, TypeScript |
-| [Minha Dose](https://github.com/emmanuelmeireles/minha-dose-front) | App mobile para controle de vacinas | React Native, TypeScript, Java |
-| [Mesa Cheia](https://github.com/emmanuelmeireles/mesaCheia) | Solução para combate à fome e reaproveitamento de alimentos | TypeScript |
-| [Minha Rotina](https://github.com/emmanuelmeireles/MinhaRotinaReact) | Aplicação para organização de tarefas e rotina | React, JavaScript |
-| [API de Currículo](https://github.com/emmanuelmeireles/aos-2025-apiCurriculo) | API REST para gerenciamento de informações profissionais | Java, Spring Boot, PostgreSQL |
-| [Back-end Express](https://github.com/emmanuelmeireles/backEnd-Express) | Aplicação back-end com Node.js e Express | Node.js, Express |
+| [Portfólio Next.js](https://github.com/emmanuelmeireles/portifolio_NextJS) | Portfólio web profissional | Next.js, TypeScript |
+| [Minha Dose](https://github.com/emmanuelmeireles/minha-dose-front) | App mobile para vacinas | React Native, TypeScript, Java |
+| [Mesa Cheia](https://github.com/emmanuelmeireles/mesaCheia) | Combate à fome e reaproveitamento | TypeScript |
+| [Minha Rotina](https://github.com/emmanuelmeireles/MinhaRotinaReact) | Organização de tarefas | React, JavaScript |
+| [API de Currículo](https://github.com/emmanuelmeireles/aos-2025-apiCurriculo) | API REST de informações profissionais | Java, Spring Boot, PostgreSQL |
+| [Back-end Express](https://github.com/emmanuelmeireles/backEnd-Express) | Back-end com Node.js e Express | Node.js, Express |
+
+---
 
 ## Formação
 
-- **Tecnólogo em Sistemas para Internet** — UNICAP, 2023–2025
-- **Bacharelado em Arquitetura e Urbanismo** — UniFBV Wyden, 2020–2026 (em andamento)
+- **Tecnólogo em Sistemas para Internet** — UNICAP, 2023–2025  
+- **Bacharelado em Arquitetura e Urbanismo** — UniFBV Wyden, 2020–2026 (em andamento)  
+
+---
 
 ## Diferenciais
 
-- Especialização prática em desenvolvimento mobile com React Native;
-- Visão Full Stack com participação em front-end, mobile, back-end e banco de dados;
-- Cultura de qualidade com Clean Code, arquitetura modular e revisão de código;
-- Forte atenção à experiência do usuário, acessibilidade e performance;
-- Colaboração em times ágeis e adaptação a ambientes de entrega contínua.
+- Especialização em mobile com React Native  
+- Visão Full Stack (frontend, mobile, backend, banco de dados)  
+- Cultura de qualidade: Clean Code, arquitetura modular, revisão de código  
+- Foco em UX, acessibilidade e performance  
+- Experiência em times ágeis e entrega contínua  
 
-## Objetivo profissional
+---
 
-Busco oportunidades como **Desenvolvedor Full Stack, Mobile, React Native, Front-end ou Software**, em times que valorizem inovação, qualidade técnica, autonomia e aprendizagem contínua.
+## Objetivo
 
-## Vamos conversar?
+Atuar como **Desenvolvedor Full Stack/Mobile/React Native/Front-end**, em equipes que valorizem inovação, qualidade técnica e aprendizado contínuo.
 
-Estou aberto a oportunidades profissionais, projetos, parcerias e conexões.
+---
+
+## Contato
 
 <p align="left">
-  <a href="mailto:emmanuelmeireles@gmail.com"><img src="https://img.shields.io/badge/E--mail-emmanuelmeireles%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <a href="https://www.linkedin.com/in/meirelesemmanuel"><img src="https://img.shields.io/badge/LinkedIn-meirelesemmanuel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://tinyurl.com/Emmanuel-Meireles-Silva"><img src="https://img.shields.io/badge/Curr%C3%ADculo%20Portf%C3%B3lio-Acessar-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Currículo Portfólio" /></a>
+  <a href="mailto:emmanuelmeireles@gmail.com"><img src="https://img.shields.io/badge/E--mail-emmanuelmeireles%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/meirelesemmanuel"><img src="https://img.shields.io/badge/LinkedIn-meirelesemmanuel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tinyurl.com/Emmanuel-Meireles-Silva"><img src="https://img.shields.io/badge/Curr%C3%ADculo%20Portf%C3%B3lio-Acessar-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
 </p>
 
 <p align="center">
