@@ -65,8 +65,8 @@ Aplicativo multiplataforma voltado ao acompanhamento e controle de vacinas, com 
 ## Formação
 
 - **Tecnólogo em Sistemas para Internet** - UNICAP, 2023–2025
-- **Bacharelado em Arquitetura e Urbanismo** - UniFBV Wyden, 2020–2026 (em andamento)
-- **Técnico em Desenvolvimento de Sistemas** - ETE(em andamento)
+- **Bacharelado em Arquitetura e Urbanismo** - UNIFBV WYDEN, 2020–2026 (em andamento)
+- **Técnico em Desenvolvimento de Sistemas** - ETE PORTO DIGITAL (em andamento)
 
 ## Diferenciais
 
